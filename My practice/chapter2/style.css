@@ -1,0 +1,17 @@
+*{
+    margin: 1%;
+    padding: 1%;
+
+}
+
+.red{
+    background-color: red;
+    color: white;
+    height: 234px;
+}
+
+.green{
+    background-color:#3d483d;
+    color: white;
+    height: 100px;
+}
